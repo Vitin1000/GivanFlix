@@ -1,15 +1,14 @@
 body {
-
+width: 25%;
 color:#414141;
 background-color: #555555;
 margin: 10px
-
-
 }
 
 header h1{
-    text-align: left;
+    
     font-size: 80px;
+    margin-left: 100px;
 }
 h2 {
     text-align:left;
