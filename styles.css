@@ -1,16 +1,17 @@
 body {
 
-color:#1a5ec4;
+color:#414141;
 background-color: #555555;
-margin: 1px
+margin: 10px
 
 
 }
 
 header h1{
-    text-align:  500px  500px;
-    font-size: 70px;
+    text-align: left;
+    font-size: 80px;
 }
 h2 {
-    text-align: 20px 200px;
+    text-align:left;
+font-size: 10px;
 }
