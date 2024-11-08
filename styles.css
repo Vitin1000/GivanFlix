@@ -12,7 +12,7 @@ body {
 }
 .tv1 {
     color:rgb(255, 255, 255);
-    margin-left: 50px;
+    text-align: center;
     margin-block: 1px;
     font-size: 20px; 
 }
