@@ -1,14 +1,17 @@
 body {
     width: 100%;
     color:#414141;
-    background-color: #555555;
+    background-color: #242a35;
 }
 .givanflix{ 
+    color-interpolation-filters: linearRGB;
+    color: rgb(95, 231, 255);
     font-size: 80px;
     margin-left: 0px;
     margin-block: 0px;
 }
 .tv1 {
+    color:rgb(255, 255, 255)
     margin-left: 50px;
     margin-block: 1px;
     font-size: 20px; 
@@ -17,4 +20,8 @@ h1{
     font-size: 80px;
     margin-left: 0px;
     margin-block: 1px;
+}
+.vd1{
+
+
 }
